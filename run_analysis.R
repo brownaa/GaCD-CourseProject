@@ -49,11 +49,6 @@ train.y  <- read.table( paste0( train.dir, "y_train.txt", sep = " "))
 # train.total_acc_y  <- read.table(paste0(train.signal.dir,  "total_acc_y_train.txt", sep = " "))
 # train.total_acc_z  <- read.table(paste0(train.signal.dir,  "total_acc_z_train.txt", sep = " "))
 
-
-# Modifying activity names to descriptive text ------------------------------------------------
-
-
-
 # Combining the data --------------------------------------------------------------------------
 
 subject     <- rbind(test.subject, train.subject)
