@@ -59,4 +59,4 @@ The final task of the course project is to summarize the data by taking the aver
 This final dataframe is then written to the file [summarized_data.txt](https://github.com/brownaa/GaCD-CourseProject/blob/master/summarized_data.txt) (a copy of this data is also uploaded to the course website).
 
 ##Codebook
-The codebook for the file [summarized_data.txt](https://github.com/brownaa/GaCD-CourseProject/blob/master/summarized_data.txt) is located in the Github repository [here](replace this link).
+The codebook for the file [summarized_data.txt](https://github.com/brownaa/GaCD-CourseProject/blob/master/summarized_data.txt) is located in the Github repository [here](https://github.com/brownaa/GaCD-CourseProject/blob/master/Summarized%20Data%20Codebook.md).
